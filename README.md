@@ -23,6 +23,7 @@ https://shutongX.github.io/dsh-plugins-index/index.json
 | dsh-pocket-switch | 手机端多台 DSH 一键切换 | https://github.com/shutongX/dsh-pocket-switch |
 | dsh-config-migrator | DSH 配置打包 / 迁移 | https://github.com/shutongX/dsh-config-migrator |
 | dsh-perf | 性能采集与优化建议 | https://github.com/shutongX/dsh-perf |
+| dsh-quote-reply | 选中文字就地引用回复，问答变成输入框上方方块，一次发出 | https://github.com/gf691271/dsh-quote-reply |
 
 ## 安装（不走索引）
 
